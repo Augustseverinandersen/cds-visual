@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Session 4 - Image Classification with ```scikit-learn```
+=======
+# Session 5 - Image Classification with ```scikit-learn```
+>>>>>>> 6f53f50a67eaccc3d444c885dc678c5d5d71bcd6
 
 ## Overview
 

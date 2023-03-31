@@ -1,8 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Session 3 - More image processing with ```OpenCV```
 =======
 # Session 4 - Convolutional kernels
 >>>>>>> 0a47e63d843bddb74d8b05e1112b2deeecb52d57
+=======
+# Session 4 - Convolutional kernels
+>>>>>>> 6f53f50a67eaccc3d444c885dc678c5d5d71bcd6
 
 ## Overview
 

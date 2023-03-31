@@ -1,6 +1,7 @@
-numpy 
+opencv_python
+
+numpy
 pandas
 matplotlib
 scikit-learn
 tensorflow-cpu
-opencv_python
